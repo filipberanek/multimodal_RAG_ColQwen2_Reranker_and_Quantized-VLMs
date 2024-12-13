@@ -1,0 +1,2 @@
+# multimodal_RAG_ColQwen2_Reranker_and_Quantized-VLMs
+Reimplementation of https://huggingface.co/learn/cookbook/multimodal_rag_using_document_retrieval_and_reranker_and_vlms
